@@ -1,5 +1,8 @@
 ![alt text](./blacktech.jpg "Profile Header Image")
+<<<<<<< HEAD
 
+=======
+>>>>>>> 77da629076dd658bdb160773a8003fa8792729bb
 - 👋 Hi, I’m Nasrullahi Olamide
 - 👀 I’m interested in JavaScript for backend 
 - 💻 I build logics and API for your website
